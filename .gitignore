@@ -1,0 +1,5 @@
+# Local assistant settings + any local memory — never committed, never published.
+.claude/
+.DS_Store
+*.swp
+/tmp/
